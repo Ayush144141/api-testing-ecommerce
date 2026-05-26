@@ -1,0 +1,22 @@
+{
+	"id": "053fbab3-7aaa-461e-9401-2c499f02f3f1",
+	"name": "FakeStore ENV",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "auth_token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-05-26T10:47:09.375Z",
+	"_postman_exported_using": "Postman/12.12.1"
+}
